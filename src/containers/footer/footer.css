@@ -141,7 +141,7 @@
     }
  }
 
- @media screen and (max-width: 4250px) {
+ @media screen and (max-width: 425px) {
     .gpt3__footer-heading h1{
         font-size: 27px;
         line-height: 38px;
